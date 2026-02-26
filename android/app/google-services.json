@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144415162573",
+    "project_id": "perflist",
+    "storage_bucket": "perflist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144415162573:android:8247d7c01dacc97dd2a984",
+        "android_client_info": {
+          "package_name": "com.example.perf_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvw8huxvcmAC838h0eVkWCprhNkpFpxWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
