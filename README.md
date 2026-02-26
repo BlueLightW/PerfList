@@ -48,4 +48,4 @@ Este projeto reflete minha especialidade no ecossistema **Firebase** e desenvolv
 
 ---
 Desenvolvido por Cesar A. Avila - Conecte-se comigo no [LinkedIn](SEU_LINK_DO_LINKEDIN)
->>>>>>> 235f749fb2f2f7433704578791c8de7a8b5d09f9
+
