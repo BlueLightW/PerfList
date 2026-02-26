@@ -12,6 +12,7 @@ firebase.json
 .pub/
 /build/
 lib/firebase_options.dart
+.firebase/perflist/hosting/main.dart.js
 # Symbolication related
 app.*.symbols
 
